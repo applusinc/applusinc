@@ -77,6 +77,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/applusinc/applusinc/output/snake.svg" alt="Snake animation" />
-
-###
