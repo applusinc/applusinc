@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Ali Abdullah Diri from Turkiye<br><br>- 🔭 I’m Full Stack Mobile App Developer<br>- 📚 I'm currently exploring node libs</p>
+<p align="left">I'm Ali Abdullah Diri from Turkiye<br><br>- 🔭 I’m Full Stack Mobile App Developer<br>- 📚 I'm currently studying.</p>
 
 ###
 
